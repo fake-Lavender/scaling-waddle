@@ -1,0 +1,3 @@
+[submodule "lavender-website"]
+	path = lavender-website
+	url = https://github.com/Juma-Lavenda/lavender-website.git
